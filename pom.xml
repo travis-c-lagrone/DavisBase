@@ -41,7 +41,7 @@
     <dependency><!-- Google Guava is a lightweight core library extension. E.g. declarative run-time argument checking. -->
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>28.0-jre</version>
+      <version>29.0-jre</version>
     </dependency>
 
     <!-- #region Testing -->
